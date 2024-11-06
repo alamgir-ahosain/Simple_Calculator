@@ -17,5 +17,7 @@ A simple calculator application built with <b>C#<b> for basic arithmetic operati
 1. Clone the project 
    ```bash
    https://github.com/alamgir-ahosain/Simple_Calculator.git
-2. or Download ZIP  
+2. or Download ZIP
+   ``` bash
+   https://github.com/alamgir-ahosain/Simple_Calculator/archive/refs/heads/main.zip
 
